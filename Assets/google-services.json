@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "315397772702",
+    "firebase_url": "https://mcdonailds.firebaseio.com",
+    "project_id": "mcdonailds",
+    "storage_bucket": "mcdonailds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315397772702:android:980ab101301baeb4",
+        "android_client_info": {
+          "package_name": "com.MF.McDonailds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyVkrJuUEZnKuWhEk6nBdlOnRxG0fsFW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315397772702-daejjl6g0ldsnv2hvili0c7lp07h5p1q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "315397772702-ml71u5cv2jki6atdmdm8uqnqc1iuq2fk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.com.AcademicPunctuation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
